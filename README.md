@@ -8,5 +8,4 @@ Pokretanje aplikacije lokalno:
 2. node app/server.js
 3. npm run dev
 <br />
-<br />
 Aplikacije se lokalno pokreće na adresi http://localhost:3000/
