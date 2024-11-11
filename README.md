@@ -5,9 +5,7 @@ Napredni razvoj programske potpore za web - Drugi projekt
 Pokretanje aplikacije lokalno:
 <br />
 1. npm install
-<br />
 2. node app/server.js
-<br />
 3. npm run dev
 <br />
 <br />
